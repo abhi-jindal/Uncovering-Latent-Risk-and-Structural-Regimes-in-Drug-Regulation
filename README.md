@@ -1,0 +1,2 @@
+# Uncovering-Latent-Structures-in-Drug-Regulation-and-Childcare-Affordability
+This project applies unsupervised and unstructured machine learning to uncover latent structure, risk profiles, and regimes in European drug regulation and U.S. childcare affordability. Using clustering, similarity analysis, anomaly detection, and regime discovery, it reveals hidden patterns that inform regulatory, investment, and policy decisions.
