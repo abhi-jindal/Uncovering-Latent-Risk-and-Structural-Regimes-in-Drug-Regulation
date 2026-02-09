@@ -6,7 +6,7 @@ medicines withdrawn or denied approval exhibit meaningful similarity patterns
 relative to approved medicines using European Medicines Agency (EMA) data.
 
 ## Files
-- `M2_mahesh_BQ1_similarity.ipynb`: Jupyter notebook containing unsupervised
+- `M2_mahesh_BQ1_similarity.ipynb`: notebook containing unsupervised
   text-based similarity analysis, exploratory clustering attempts, and
   supplemental visualizations.
 
